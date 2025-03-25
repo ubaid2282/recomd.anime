@@ -83,25 +83,15 @@ In Notebook 2, we take the next step in our journey by training our recommendati
 
   Happy anime recommending! 🎊
 
-#### `NOTE`:-
-
-Due to the large size of the model file i.e `myanimeweights.h5`, it cannot be directly hosted on GitHub. However, you can still access and download the files from my [Google Drive](https://drive.google.com/file/d/1dypdLwProMGxy7h8hi49a-kHiu_nFz1U/view?usp=sharing).
 
 ## About the Dataset
 
 The dataset used in the Anime Recommendation System project offers a wealth of valuable information, encompassing anime characteristics, ratings, popularity, viewership, user behavior, and preferences. It serves as a comprehensive resource for conducting diverse analyses, such as identifying top-rated anime, exploring popular genres, and gaining insights into viewer trends. With this dataset, personalized recommendation systems can be developed, user behavior can be analyzed, and clustering can be employed to understand anime trends and user preferences. Additionally, the dataset enables examination of user interactions, ratings, and engagement with anime, providing essential inputs for collaborative filtering and similarity analysis.
 
-This dataset was built by me. For a detailed overview of the dataset creation process, you can visit my [GitHub repository](https://github.com/Sajid030/anime_dataset_generator), where I have explained the procedure I followed to generate the complete dataset, including the tools and techniques used to create the final dataset.
-
-You can find my complete dataset on [kaggle](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset). If you find this dataset helpful, please consider giving it an upvote to show your appreciation.😊
-
 ## Motivation
 
 🎬 As an anime weeb, I have always been captivated by the fascinating world of anime. The colorful characters, gripping storylines, and imaginative worlds never fail to spark my imagination and evoke a sense of wonder. It didn't take long for me to realize that the joy I experienced while watching animes could be elevated to another level by bringing the magic of anime recommendations into real life. The idea of creating an Anime Recommendation System took root in my mind, and I embarked on this exciting journey to develop a platform that could intelligently suggest animes based on individual preferences. This project allowed me to combine my passion for anime with the fascinating realm of data science and machine learning, enabling me to create a personalized anime discovery experience for myself and fellow anime enthusiasts. Join me as I unravel the world of anime recommendations and witness the magic of data-driven suggestions that open up new horizons in the anime universe! 🎬
 
-## Acknowledgments
-
-A big shoutout to my friend [Aditya Singh Rawat](https://github.com/unreal0901) for their invaluable contribution to this project. Their design skills and collaboration were essential in bringing the Anime Recommendation App to life. 🙌
 
 ## Installation
 
